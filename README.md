@@ -1,11 +1,13 @@
 # trackingAPI
 Exemplo básico de api de tracking
 
-# Como rodar
 
 API criada em .NET Core 2.2
 Usando EF Core
 SPA em Angular 2 na mesma Solution
+
+# Como rodar
+
 
 Como rodar a API:
 1 - Abrir o projeto no VS 2019 
