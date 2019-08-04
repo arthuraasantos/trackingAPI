@@ -1,0 +1,20 @@
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <td colspan="2" class="text-right">
+        <a class="btn btn-primary pull-right" [routerLink]='["campaign/new"]'>Criar campanha</a>
+      </td>
+    </tr>
+    <tr class="font-weight-bold">
+        <td>Id</td>
+        <td>Descrição</td>
+    </tr>
+
+  </thead>
+  <tbody>
+    <tr *ngFor="let campaign of campaigns">
+      <td>{{ campaign.id }}</td>
+      <td>{{ campaign.description }}</td>
+    </tr>
+  </tbody>
+</table>
