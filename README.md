@@ -10,9 +10,9 @@ SPA em Angular 2 na mesma Solution
 
 
 Como rodar a API:
-1 - Abrir o projeto no VS 2019 
-2 - Buildar a solution 
-3 - Rodar
+* 1 - Abrir o projeto no VS 2019 
+* 2 - Buildar a solution 
+* 3 - Rodar
 
 Como rodar o APP:
 1 - Abrir o projeto no VS CODE 
