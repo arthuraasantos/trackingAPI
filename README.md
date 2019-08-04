@@ -15,10 +15,10 @@ Como rodar a API:
 * 3 - Rodar
 
 Como rodar o APP:
-1 - Abrir o projeto no VS CODE 
-2 - Navegar até o path raiz da aplicação: \ClientApp
-3 - rodar o comando 'npm install'
-4 - Rodar o projeto com o comando 'ng serve'(se tiver o Angular CLI) ou npm start
+* 1 - Abrir o projeto no VS CODE 
+* 2 - Navegar até o path raiz da aplicação: \ClientApp
+* 3 - rodar o comando 'npm install'
+* 4 - Rodar o projeto com o comando 'ng serve'(se tiver o Angular CLI) ou npm start
 
 
 
